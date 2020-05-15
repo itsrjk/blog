@@ -127,11 +127,11 @@ theme = "LoveIt"
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = ""
+      gravatarEmail = "allspamemail@protonmail.com"
       # URL of avatar shown in home page
       avatarURL = "/images/avatar.png"
       #  title shown in home page (HTML format is supported)
-      title = ""
+      title = "Reuel's blog"
       # subtitle shown in home page
       subtitle = "Hello there! Welcome to my blog."
       # whether to use typeit animation for subtitle
@@ -488,8 +488,8 @@ theme = "LoveIt"
 
 # Author config
 [author]
-  name = "xxxx"
-  email = ""
+  name = "Reuel John"
+  email = "reueljohn@protonmail.com"
   link = ""
 
 # Sitemap config
