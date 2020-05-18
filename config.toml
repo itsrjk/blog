@@ -3,7 +3,7 @@ baseURL = "http://example.org/"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "My New Hugo Site"
+title = "Reuel's blog"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -488,7 +488,7 @@ theme = "LoveIt"
 
 # Author config
 [author]
-  name = "Reuel John"
+  name = "Reuel John K"
   email = "reueljohn@protonmail.com"
   link = ""
 
@@ -545,7 +545,7 @@ theme = "LoveIt"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
-    weight = 1
+    weight = 2
   [[menu.main]]
     identifier = "tags"
     pre = ""
@@ -553,7 +553,7 @@ theme = "LoveIt"
     name = "Tags"
     url = "/tags/"
     title = ""
-    weight = 2
+    weight = 4
   [[menu.main]]
     identifier = "categories"
     pre = ""
@@ -562,4 +562,12 @@ theme = "LoveIt"
     url = "/categories/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/content/about.md"
+    title = ""
+    weight = 1
 
